@@ -7,7 +7,7 @@ Este scrip configura automaticamente el driver r8168 e instala WakeOnLan
 El objetivo de todos mis proyectos es tratar de encontrar la automatizacion de procesos "simples"
 
 # Instalacion
-chmod 777 Instalar8168.sh
+chmod 777 Instalar8168.sh && 
 bash Instalar8168.sh
 
 # Autor - Martin Ciro
