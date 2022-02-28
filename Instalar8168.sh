@@ -5,7 +5,7 @@ tar -xjvf r8168*
 ls
 echo -e "\e[35m Pegue el nombre de la carpeta nueva \e[0m"
 read nm
-cd $HOME/$nm
+cd $HOME/r8168/$nm
 sudo bash autorun.sh
 
 ip add | grep ": "
